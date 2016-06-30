@@ -1,1 +1,2 @@
 Git Sample Test file
+Add this line for update from clone test
